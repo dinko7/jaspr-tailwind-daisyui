@@ -305,6 +305,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.13.1"
+  jaspr_tailwind:
+    dependency: "direct dev"
+    description:
+      name: jaspr_tailwind
+      sha256: "37d289b05e396c76002420e35a025fb9b635c78622ceb1346d71b3ce03f4a5f6"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.1"
   js:
     dependency: transitive
     description:
