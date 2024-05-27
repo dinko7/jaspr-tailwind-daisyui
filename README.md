@@ -2,7 +2,7 @@
 
 Jaspr project with Tailwind and DaisyUI.
 
-Avaiable as a part of the [Styling your Jaspr website with Tailwind CSS and DaisyUI]() tutorial.
+Avaiable as a part of the [Styling your Jaspr website with Tailwind CSS and DaisyUI](https://dinkomarinac.dev/styling-your-dart-jaspr-website-with-tailwind-css-and-daisyui) tutorial.
 
 ## Running the project
 
